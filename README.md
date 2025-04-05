@@ -2,7 +2,7 @@
 
 A modern web application for searching, viewing, and saving recipes. Built with JavaScript, HTML, and CSS.
 
-Live Demo: [forkify-laszlod.netlify.app](https://forkify-laszlod.netlify.app/)
+Live Demo: [forkify-ld.netlify.app](https://forkify-ld.netlify.app/)
 
 
 ## About The Project
@@ -36,6 +36,6 @@ To run locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/forkify-app.git
+   git clone https://github.com/laszlodus/forkify-project.git
 2. Install dependencies: npm install
 3. Start development server: npm start
