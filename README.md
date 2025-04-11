@@ -16,7 +16,7 @@ This project was created as part of "The Complete JavaScript Course 2025: From Z
 - Bookmark favorite recipes
 - Adjust servings based on your needs
 - Upload your own recipes
-- Responsive design for all device sizes
+- Not responsive – best viewed on desktop (1280px+)
 
 ## Technologies Used
 
